@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CAFU as Senior iOS Engineer
+- 🔭 I’m currently working on b_labs as Principal iOS Engineer
 - 🌱 I’m currently learning Augmented Reailty and Machine learning
 - 👯 I’m looking to collaborate on AR and ML projects
 - 💬 Ask me about anything related to programming.
